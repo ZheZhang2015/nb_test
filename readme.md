@@ -8,3 +8,5 @@ This is made on bug-fix branch---try to create merge conflict with bug-fix branc
 this line is for remote tracking branch
 add this to see if remote tracking branck can pull this
 add this from remote tracking branch
+this line is for rebase
+this line is for rebase too, both are added from feature-branch
