@@ -3,3 +3,4 @@ test 2nd line
 add this line from new branch
 2nd commit from new branch
 add this from Documents
+add this from Documents, will push to origin, Download master will be update, and feature1 will rebase to master 
